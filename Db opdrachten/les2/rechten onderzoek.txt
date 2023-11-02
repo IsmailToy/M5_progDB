@@ -1,0 +1,11 @@
+create:
+create wordt gebruikt om een nieuw tabel te maken
+
+grant:
+grant wordt gebruikt om andere users nieuwe rechten te geven
+
+drop:
+drop wordt gebruikt om dingen in de database te verwijderen
+
+alter:
+alter wordt gebruikt om dingen in een tabel te veranderen
